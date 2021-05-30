@@ -32,5 +32,6 @@
     service nginx restart
 # Open 80 port number in security group and check output of springboot application
     http://52.5.196.234/
+  ![image](https://user-images.githubusercontent.com/58024415/120103102-a93de780-c16b-11eb-82eb-ac6d4a556ca5.png)
     
 # If you want to do secure with https, need to purchase domain, need to add certificates in ````/etc/nginx/nginx.conf````
