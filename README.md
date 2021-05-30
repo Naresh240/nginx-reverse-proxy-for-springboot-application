@@ -1,1 +1,1 @@
-# nginx-reverse-proxy-for-springboot-application
+# springboot-application
